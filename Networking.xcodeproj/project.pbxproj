@@ -14,6 +14,7 @@
 		1481264629B4BAD500B23488 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1481264529B4BAD500B23488 /* Assets.xcassets */; };
 		1481264929B4BAD500B23488 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1481264729B4BAD500B23488 /* LaunchScreen.storyboard */; };
 		1481265129B4BC0400B23488 /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1481265029B4BC0400B23488 /* Model.swift */; };
+		1481265329B4CE9700B23488 /* Request.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1481265229B4CE9700B23488 /* Request.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		1481264829B4BAD500B23488 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1481264A29B4BAD500B23488 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1481265029B4BC0400B23488 /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
+		1481265229B4CE9700B23488 /* Request.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Request.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				1481263C29B4BAD300B23488 /* AppDelegate.swift */,
 				1481263E29B4BAD300B23488 /* SceneDelegate.swift */,
 				1481264029B4BAD300B23488 /* ViewController.swift */,
+				1481265229B4CE9700B23488 /* Request.swift */,
 				1481264229B4BAD300B23488 /* Main.storyboard */,
 				1481265029B4BC0400B23488 /* Model.swift */,
 				1481264529B4BAD500B23488 /* Assets.xcassets */,
@@ -143,6 +146,7 @@
 			files = (
 				1481264129B4BAD300B23488 /* ViewController.swift in Sources */,
 				1481263D29B4BAD300B23488 /* AppDelegate.swift in Sources */,
+				1481265329B4CE9700B23488 /* Request.swift in Sources */,
 				1481263F29B4BAD300B23488 /* SceneDelegate.swift in Sources */,
 				1481265129B4BC0400B23488 /* Model.swift in Sources */,
 			);
